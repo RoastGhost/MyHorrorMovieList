@@ -1,0 +1,2 @@
+# MyHorrorMovieList
+My Personal List of Horror movies that I need to watch. Intended for sharing with friends and family who need something of this genre to watch. My hopes for this list is that it will be editable by each user who visits and has the functionality to remember the way they leave the page. Movie titles can be sorted by name, year released, and rating. Movie details such as rating % info for the movie's to be pulled from rottentomatoes.com.
