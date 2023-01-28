@@ -1,2 +1,3 @@
 # MyHorrorMovieList
 My personal list of Horror movies that I have or need to watch. Intended for sharing with friends and family who need something of this genre to watch. My hopes for this list is that it will be editable by each user who visits and has the functionality to remember the way they leave the page. When completed, Movie titles can be sorted by name, year released, and rating. I hope for movie details such as rating % to be grabbed from the web.
+View the current live Codepen version: https://codepen.io/RoastGhost/pen/eYjMYrX
